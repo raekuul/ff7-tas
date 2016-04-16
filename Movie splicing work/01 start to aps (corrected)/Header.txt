@@ -1,0 +1,10 @@
+MovieVersion BizHawk v2.0.0
+rerecordCount 616
+Author Infamousknight
+emuVersion Version 1.11.5
+Platform PSX
+GameName Final Fantasy VII (USA) (Disc 1)
+SHA1 38821BFF
+PSX_Firmware_U 10155D8D6E6E832D6EA66DB9BC098321FB5E8EBF
+Core Octoshock
+

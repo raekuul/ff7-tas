@@ -1,0 +1,4 @@
+To create a BK2 file from these folders:
+1) enter the folder
+2) zip everything in the folder (but not the folder itself) into a new zip file. Compression shouldn't matter.
+3) change the extension of your new zip file to bk2 (e.g. "sample name.zip" becomes "sample name.bk2"
