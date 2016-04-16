@@ -1,0 +1,11 @@
+SystemID PSX
+0F5BBD	b	u	0	MainRAM	pl1
+0F5C01	b	u	0	MainRAM	pl2
+0F5C45	b	u	0	MainRAM	pl3
+0F5C89	b	u	0	MainRAM	en0
+0F5CCD	b	u	0	MainRAM	en1
+0F5D11	b	u	0	MainRAM	en2
+0F5D55	b	u	0	MainRAM	en3
+0F5D99	b	u	0	MainRAM	en4
+0F5DDD	b	u	0	MainRAM	en5
+
