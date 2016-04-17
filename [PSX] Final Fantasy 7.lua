@@ -1,18 +1,20 @@
 -- Definitions and relative addresses are referencing http://wiki.qhimm.com/view/FF7/Battle/
+-- NOTE: qhimm seems to be more focused on the PC port rather than the PSX version; noting discrepencies as comments
 
 rng_index = 0x62e18
 rng_table = 0x62e10
 
 enemy_level_offset = 0x0020
 enemy_health_offset = 0x0
-enemy_ATB_offset = 0x0
+enemy_ATB_offset = 0x0 -- Enemy ATB might be in a different location?
 enemy_itemrate_offset = 0x0088
 enemy_itemset_offset = 0x008C
+
 team_index_offset = 0x00
 team_level_offset = 0x0
 team_luck_offset = 0x07
 team_limit_offset = 0x0
-team_atb_offset = 0x18
+team_atb_offset = 0x18 -- Team ATB might be in a different location?
 
 enemies = {
 	["root"] = {
